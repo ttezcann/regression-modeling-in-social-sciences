@@ -10,34 +10,6 @@ dasda
 
 {% stepper %}
 {% step %}
-### How to create a free RStudio Cloud account
-
-#### RStudio Cloud website
-
-1. Go to [https://posit.cloud/plans/free](https://posit.cloud/plans/free) and make sure you choose “free.”
-2. Click "Sign up."
-
-<figure><img src="../.gitbook/assets/cloud_free_signup.png" alt=""><figcaption></figcaption></figure>
-
-#### Email address and password
-
-1. Use an email address.
-2. Put a password (at least 10 characters). You must:
-   1. Use upper and lower case letters,
-   2. Use numbers,
-   3. Use special characters.
-3. Type your first name.
-4. Type your last name.
-5. Click "Sign up."
-
-<figure><img src="../.gitbook/assets/email_pass_name.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-
-{% endstep %}
-
-{% step %}
 ### Opening all the panes
 
 

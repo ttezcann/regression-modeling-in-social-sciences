@@ -1,7 +1,10 @@
 # Table of contents
 
 * [HOME](README.md)
-* [RSTUDIO INSTALLATION](start-here.md)
+* [RSTUDIO INSTALLATION](start-here/README.md)
+  * [Create a free RStudio Cloud account and install packages](start-here/create-a-free-rstudio-cloud-account-and-install-packages.md)
+  * [Install R and RStudio to your personal computer](start-here/install-r-and-rstudio-to-your-personal-computer.md)
+  * [Using RStudio on a university lab computer](start-here/using-rstudio-on-a-university-lab-computer.md)
 * [MODULES](modules/README.md)
   * [Introduction to RStudio](modules/introduction-to-rstudio.md)
   * [Introduction to scripting](modules/introduction-to-scripting.md)
