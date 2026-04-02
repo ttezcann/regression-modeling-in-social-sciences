@@ -10,13 +10,13 @@ dasda
 
 {% stepper %}
 {% step %}
-## Opening all the panes
+### Opening all the panes
 
 
 {% endstep %}
 
 {% step %}
-## What to do if RStudio Cloud crashes?
+### What to do if RStudio Cloud crashes?
 
 
 {% endstep %}
@@ -46,7 +46,7 @@ dasda
 
 You can download R and RStudio to your personal computer.
 
-### Mac users
+#### Mac users
 
 [Check your macOS version](https://support.apple.com/en-us/HT201260)
 
@@ -64,7 +64,7 @@ You can download R and RStudio to your personal computer.
 macOS may want you to allow it to download. Open System Preferences <mark style="color:red;">➜</mark> Security & Privacy <mark style="color:red;">➜</mark> General <mark style="color:red;">➜</mark> Allow (you may need to click the lock at the bottom to unlock).
 {% endhint %}
 
-### Windows users
+#### Windows users
 
 #### Windows 10 and higher
 
