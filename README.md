@@ -1,8 +1,8 @@
-# Home
+# HOME
 
 ## Regression Modeling in Social Sciences Using GSS
 
-This site explains regression modeling in social sciences using General Social Survey (2024) dataset.
+This site explains regression modeling in social sciences using [General Social Survey (2024)](https://gss.norc.org/content/dam/gss/get-documentation/pdf/codebook/GSS%202024%20Codebook%20R3.pdf) dataset.
 
 ### [Modules](modules/)
 

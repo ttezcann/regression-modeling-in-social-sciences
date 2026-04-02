@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [HOME](README.md)
 * [START HERE](start-here.md)
 * [MODULES](modules/README.md)
   * [Introduction to RStudio](modules/introduction-to-rstudio.md)
