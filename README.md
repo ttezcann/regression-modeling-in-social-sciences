@@ -6,12 +6,7 @@ This site explains regression modeling in social sciences using [General Social 
 
 ### [Modules](modules/)
 
-There are 15 modules, each of them containing:
-
-1. R script file
-2. Slides
-3. Lab assignment
-4. Sample lab assignment
+There are 15 modules, each of them containing: **(1)** R script file, **(2)** Slides, **(3)** Lab assignment, and **(4)** Sample lab assignment.
 
 After completing the modules, users will be able to run and interpret multiple linear regression and logistic regression analysis.
 
