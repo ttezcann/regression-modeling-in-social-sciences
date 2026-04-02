@@ -4,7 +4,7 @@
 
 This site explains regression modeling in social sciences using General Social Survey (2024) dataset.
 
-### Modules
+### [Modules](modules/)
 
 There are 15 modules, each of them containing:
 
@@ -15,12 +15,12 @@ There are 15 modules, each of them containing:
 
 After completing the modules, users will be able to run and interpret multiple linear regression and logistic regression analysis.
 
-### Lab resources
+### [Lab resources](lab-resources/)
 
-1. Variables in GSS (categorized codebook)
-2. Code and interpretation templates
-3. Flashcards
-4. Other datasets
+1. [Variables in GSS](lab-resources/variables-in-gss.md) (categorized codebook)
+2. [Code and interpretation templates](lab-resources/code-and-interpretation-templates.md)
+3. [Flashcards](lab-resources/flashcards.md)
+4. [Other datasets](lab-resources/other-datasets.md)
 
 ## About this site
 
