@@ -32,3 +32,22 @@ Windows users may need to change some of their settings.
 
 Select Start <mark style="color:red;">➜</mark> Settings <mark style="color:red;">➜</mark> Apps <mark style="color:red;">➜</mark> Apps & features. Under Installing apps, select "Allow apps from anywhere."
 {% endhint %}
+
+#### Download the specific R script file to install packages and load GSS data
+
+1. Copy the code below.
+2. Paste it into RStudio console.
+3. Hit enter.
+
+```r
+source(url("https://raw.githubusercontent.com/ttezcann/regression-social-sciences/main/scripts/0_packages.R")); 
+source(url("https://raw.githubusercontent.com/ttezcann/regression-social-sciences/main/scripts/0_load_gss_data.R")); 
+download.file("https://raw.githubusercontent.com/ttezcann/regression-social-sciences/main/scripts/0_installing_packages.R", "0_installing_packages.R"); 
+file.edit("0_installing_packages.R")
+```
+
+dsa
+
+
+
+<figure><img src="../.gitbook/assets/stop_install_load (1).png" alt=""><figcaption></figcaption></figure>
