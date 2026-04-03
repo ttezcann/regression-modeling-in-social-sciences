@@ -68,9 +68,6 @@ file.edit("0_installing_packages.R")
 
 <figure><img src="../.gitbook/assets/copy_paste_enter.png" alt=""><figcaption></figcaption></figure>
 
-dsadas
-
-dsada
 {% endstep %}
 
 {% step %}
