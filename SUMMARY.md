@@ -20,7 +20,7 @@
   * [12. Dummy variables](modules/12.-dummy-variables.md)
   * [13. Logistic regression](modules/13.-logistic-regression.md)
   * [14. Modeling exercises](modules/14.-modeling-exercises.md)
-  * [15. Regression assumptions diagnostics](modules/15.-regression-assumptions-diagnostics.md)
+  * [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics.md)
 * [LAB RESOURCES](lab-resources/README.md)
   * [Variables in GSS](lab-resources/variables-in-gss.md)
   * [Code and interpretation templates](lab-resources/code-and-interpretation-templates.md)
