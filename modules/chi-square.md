@@ -1,2 +1,0 @@
-# Chi-square
-
