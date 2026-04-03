@@ -7,7 +7,7 @@
 1. Go to [https://posit.cloud/plans/free](https://posit.cloud/plans/free) and make sure you choose “free.”
 2. Click "Sign up."
 
-<figure><img src="../.gitbook/assets/cloud_free_signup.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cloud_free_signup.png" alt="Step 1: Select the Free tab. Step 2: Select Sign Up"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
