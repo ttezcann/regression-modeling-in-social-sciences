@@ -6,8 +6,6 @@
   * [Install R and RStudio to your personal computer](start-here/install-r-and-rstudio-to-your-personal-computer.md)
   * [Using RStudio on a university lab computer](start-here/using-rstudio-on-a-university-lab-computer.md)
 * [MODULES](modules/README.md)
-  * [01. Introduction to RStudio](modules/01.-introduction-to-rstudio.md)
-  * [02. Introduction to scripting](modules/02.-introduction-to-scripting.md)
   * [03. Descriptive statistics](modules/03.-descriptive-statistics.md)
   * [04. Recoding variables](modules/04.-recoding-variables.md)
   * [05. Computing variables](modules/05.-computing-variables.md)
